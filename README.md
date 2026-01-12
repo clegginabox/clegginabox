@@ -2,16 +2,18 @@
 
 <div align="center">
 
+
 [![Website](https://img.shields.io/badge/Website-clegginabox.co.uk-2f2f2f?style=flat&logo=googlechrome&logoColor=white)](https://clegginabox.co.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul%20Clegg-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-c-80a31127/)
 
 </div>
-<div align="center">
 
-[![Paul's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=clegginabox&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=clegginabox&layout=compact&theme=radical&hide=blade,twig,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+
+[![Paul's GitHub stats](https://github-readme-stats-fast.vercel.app/api/?username=clegginabox&theme=catppuccin_mocha&hide=blade&show_icons=true&hide_border=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Paul's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=clegginabox&theme=catppuccin_mocha&hide=blade&show_icons=true&hide_border=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+
 
 
 ### Core & Frameworks
